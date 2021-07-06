@@ -1,7 +1,7 @@
 <!-- background image -->
 ![](./assets/imgs/cover-logo.png)
 
-> hello World !!
+> Guia de boas práticas
 
 [Introdução](/README?id=introdução)
 

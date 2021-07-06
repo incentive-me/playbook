@@ -1,6 +1,6 @@
 # Introdução
 
-> Neste documento é apresentado como nós administramos a nossa organização, como planejamos nosso trabalho e como desenvolvemos software de qualidade. Este documegit to é baseado na nossa experiência, além da experiência e estudo de outros, e está sempre evoluindo quando nós encontramos uma maneira melhor de fazer as coisas.
+> Neste documento é apresentado como nós administramos a nossa organização, como planejamos nosso trabalho e como desenvolvemos software de qualidade. Este documento é baseado na nossa experiência, além da experiência e estudo de outros, e está sempre evoluindo quando nós encontramos uma maneira melhor de fazer as coisas.
 
 No matter the circumstance you can always improve. You can always start improving with yourself. You can always start improving today.
 — Kent Beck, Extreme Programming Explained
