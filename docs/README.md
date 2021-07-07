@@ -3,7 +3,7 @@
 Neste documento é apresentado como nós administramos a nossa organização, como planejamos nosso trabalho e como desenvolvemos software de qualidade. Este documento é baseado na nossa experiência, além da [experiência](https://thoughtbot.com/playbook) e [estudo](https://playbook.dxw.com) de [outros](https://www.vinta.com.br/playbook/), e está sempre evoluindo quando nós encontramos uma maneira melhor de fazer as coisas. Um agradecimento especial a [Magrathea Labs](https://playbook.magrathealabs.com), inspiração inicial para criarmos nosso playbook.
 
 > No matter the circumstance you can always improve. You can always start improving with yourself. You can always start improving today.
-— Kent Beck, Extreme Programming Explained
+> <br>— *Kent Beck, Extreme Programming Explained*
 
 Este manual é um esforço colaborativo. Se você perceber que algo está errado, sinta-se a vontade para corrigí-lo. Todo mundo na Incentive.me pode editar este manual abrindo um PR (Pull Request) com as modificações desejadas. Desta maneira, nós podemos discutir através do PR e manter a discussão arquivada para referências futuras.
 
