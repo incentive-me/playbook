@@ -2,8 +2,13 @@
     
 }
 
+input[type="search"]{
+    color:#ef2c6c;
+}
+
+
 .sidebar-nav {
-    padding: 0 15px;
+    padding: 0 18px;
     
    
 }
