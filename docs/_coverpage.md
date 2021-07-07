@@ -3,7 +3,7 @@
 
 > Guia de boas práticas
 
-[Introdução](/README?id=introdução)
+[Introdução](/README)
 
 <!-- background color -->
 
